@@ -6,9 +6,9 @@ package frc.robot.subsystems;
 
 import edu.wpi.first.wpilibj2.command.SubsystemBase;
 
-public class orangeSubsystem extends SubsystemBase {
-  /** Creates a new orangeSubsystem. */
-  public orangeSubsystem() {}
+public class OrangeSubsystem extends SubsystemBase {
+  /** Creates a new OrangeSubsystem. */
+  public OrangeSubsystem() {}
 
   @Override
   public void periodic() {
